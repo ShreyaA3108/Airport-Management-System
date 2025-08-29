@@ -27,4 +27,3 @@ The project demonstrates **database design concepts**, including:
 
 ---
 
-## 📂 Project Structure
